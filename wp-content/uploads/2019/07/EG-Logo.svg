@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1127.536" height="1152.666" viewBox="0 0 1127.536 1152.666">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1127.536" height="1152.666" fill="none"/>
+    </clipPath>
+    <filter id="E" x="3.728" y="61.499" width="1086.438" height="1087.438" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G" x="376.219" y="270.317" width="413" height="633" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_3_1" data-name="Component 3 – 1" clip-path="url(#clip-path)">
+    <g id="Component_1_8" data-name="Component 1 – 8" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#E)">
+        <text id="E-2" data-name="E" transform="translate(560.03 987.81) rotate(-45)" fill="#d88f00" font-size="800" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">E</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#G)">
+        <text id="G-2" data-name="G" transform="translate(391.22 754.32)" fill="#0d3790" font-size="495" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">G</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="31" height="50" transform="translate(474.83 649.653) rotate(45)" fill="#d88f00"/>
+  </g>
+</svg>
